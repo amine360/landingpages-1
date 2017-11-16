@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'League Spartan';
+    src: url('leaguespartan-bold.eot');
+    src: url('leaguespartan-bold.eot?#iefix') format('embedded-opentype'),
+         url('leaguespartan-bold.woff2') format('woff2'),
+         url('leaguespartan-bold.woff') format('woff'),
+         url('leaguespartan-bold.ttf') format('truetype'),
+         url('leaguespartan-bold.svg#league_spartanbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+h1 {
+	text-align: center;
+font-size: 4.5rem;
+}
+
+h2 {
+	font-size: 3.425rem;
+	line-height: 1.2em;
+	font-family: "League Spartan"
+
+}
+
+h3 {
+	font-size: 2.5rem;
+}s
+
+section {
+	font-family: 'VarelaRound', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1.125rem;
+
+}
+p {
+	font-family: 'VarelaRound', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.bordure {
+	
+	width:700px;
+    margin: auto;
+}
+
+button {
+	display: inline-block;
+font-family: "League Spartan", "Helvetica Neue", Helvetica, Arial, sans-serif;
+line-height: 2.73em;
+padding: 0 1.25em;
+    padding-top: 0px;
+padding-top: 0.146em;
+border-radius: 2em;
+background-color: #1bb45e;
+color: #ffffff;
+text-decoration: none;
+margin-top: 0.91em;
+margin-bottom: 0.91em;
+}  
+
+.button {
+	width: 1020px;
+}
+
+video {
+width: 888px;
+height: 500px;
+}
+
+.button {
+	text-align: auto
+}
+
+.case1 {
+	border: 2px solid #c2c2c2;
+}
+
+.case2 {
+	border: 2px solid #c2c2c2;
+}
+
+.case3 {
+	border: 2px solid #c2c2c2;
+}
+
+.open {
+	line-height: 1.75em;
+}
+
+.mail {
+	
+}
